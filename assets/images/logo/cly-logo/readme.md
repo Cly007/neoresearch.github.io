@@ -1,4 +1,4 @@
-<img src="https://github.com/Cly007/neoresearch.github.io/blob/master/assets/images/logo/cly-logo/NEO_Research.png">
+<img src="https://github.com/Cly007/neoresearch.github.io/blob/master/assets/images/logo/cly-logo/NEO_Research.png" width="300">
 
 Author: Cly007
 
