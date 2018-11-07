@@ -1,26 +1,7 @@
+Author: Cly007
 
-<p align="center">
-    <img
-      src="/assets/images/logo/edge-logo/edge_leaf.png"
-      width="125px;">
-</p>
+Logo inspiration: Evolve the original leaf concept into a more refined, versatile and modern form. 
 
-<p align="center">
-    <img
-      src="/assets/images/logo/edge-logo/edge_trileaf.png"
-      width="125px;">
-</p>
-
-<p align="center">
-    <img
-      src="/assets/images/logo/edge-logo/edge_trileaf2.png"
-      width="125px;">
-</p>
-
-Author: Edge
-
-Logo inspiration: NeoResearch, thirdprize
-
-Address: AHKEnMJTU7DYmszng7MdA4w2X8UcPcnXVp
+Address: AeWydFiwu7Qz4NwcWsVTLwaK8joaPninDk
 
 License: MIT
