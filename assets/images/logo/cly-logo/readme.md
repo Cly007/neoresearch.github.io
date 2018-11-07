@@ -1,3 +1,5 @@
+<img src="assets/images/logo/cly-logo/NEO_Research.png">
+
 Author: Cly007
 
 Logo inspiration: Evolve the original leaf concept into a more refined, versatile and modern form. 
